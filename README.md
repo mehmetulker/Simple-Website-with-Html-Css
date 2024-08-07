@@ -2,12 +2,12 @@
 
 ## Responsive Simple Website with Html Css.
 
-**live demo: [https://whimsical-crisp-9d44fb.netlify.app//](https://whimsical-crisp-9d44fb.netlify.app///)**
+**live demo: [https://steady-froyo-4e161a.netlify.app](https://steady-froyo-4e161a.netlify.app)**
 
 ## Instructions
 
 First clone this repository.
 
 ```bash
-$ git clone https://github.com/mehmetulker/Responsive-Food-Website-Using-HTML-CSS.git
+$ git clone https://github.com/mehmetulker/Simple-Website-with-Html-Css.git
 ```
